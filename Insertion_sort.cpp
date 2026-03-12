@@ -27,3 +27,8 @@ void input()//prosedur input
         cin >> arr[i];
     }
 }
+
+void insertionsort(){//prosedur insertion sort
+    int temp;
+    int j;
+}
